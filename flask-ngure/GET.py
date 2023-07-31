@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+"GET API example"
 from flask import Flask, request, jsonify
 
 app = Flask(__name__)
