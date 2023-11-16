@@ -1,7 +1,7 @@
-[Alt text](<Screenshot from 2023-11-16 10-39-15.png>)
-[Alt text](<Screenshot from 2023-11-16 10-40-23.png>)
-[Alt text](<Screenshot from 2023-11-16 10-42-06.png>)
-[Alt text](<Screenshot from 2023-11-16 10-43-38.png>)
+![Alt text](<Screenshot from 2023-11-16 10-39-15.png>)
+![Alt text](<Screenshot from 2023-11-16 10-40-23.png>)
+![Alt text](<Screenshot from 2023-11-16 10-42-06.png>)
+![Alt text](<Screenshot from 2023-11-16 10-43-38.png>)
 
 
 Created by Johnwngure, this To Do List application was made using Django and Sqlite for the back-end. HTML, CSS and Python. Even its status is production, this app has only an educational purpose, so please do not share any personal information while using it.
