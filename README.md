@@ -9,7 +9,8 @@ Created by Johnwngure, this To Do List application was made using Django and Sql
 Note: if the page takes a few seconds to response, it is normal, since I am using the free version of Heroku. Data loss may be a consequence of it too.
 
 Functionalities
-Users can create accounts, log in and log out.
-Logged users or anonymous users can create, update and delete their tasks (logged users by storing and accessing their information on database, and anonymous users storing and accessing their information by cookies).
-Some pages are restricted for some types of users.
-Each user has only access to their tasks.
+  1. Users can create accounts, log in and log out.
+  2. Logged users or anonymous users can create, update and delete their tasks (logged users by storing and accessing their information on database, and anonymous users storing and accessing their 
+     information by cookies).
+  3. Some pages are restricted for some types of users.
+  4. Each user has only access to their tasks.
